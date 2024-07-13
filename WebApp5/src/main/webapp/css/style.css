@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+}
+
+.row .col1{
+    width: 50%;
+    height: 50vh;
+    float: left;
+  background-color: rgb(46, 197, 209);
+
+}
+
+.row .col2{
+	padding:20px;
+    width: 40%;
+    height: 50vh;
+    float: left;
+}
+
+.img{
+	width:60vh;
+}
+
+input,textarea{
+	width:100%;
+}
+
+button{
+	background-color:green;
+	height:30px;
+	color:white;
+	border-radius:10px;
+}
+
+.mb{
+	margin-bottom:5px;
+}
+h3{
+	padding:5px;
+}
